@@ -1,0 +1,21 @@
+{
+  "name": "api-poloniex",
+  "version": "1.0.54",
+  "description": "Poloniex Api Js",
+  "main": "./lib/api-poloniex.js",
+  "author": "Megatone",
+  "license": "MIT",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "nonce": "^1.0.4",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {}
+}
